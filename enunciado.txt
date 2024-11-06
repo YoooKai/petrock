@@ -1,0 +1,66 @@
+Actividad 4: Diseño de página web con Bootstrap
+
+Objetivo
+
+Imagina que eres parte de un equipo de desarrollo web y has recibido el encargo de diseñar una página web para una empresa poco convencional. La misión de tu equipo es elegir una de las empresas descritas y desarrollar una página web atractiva y completamente responsiva utilizando Bootstrap.
+
+Empresa elegida: PET ROCK
+
+Requisitos de la Página Web
+
+La página web debe cumplir con los siguientes requisitos:
+Estructura y Páginas
+
+    Mínimo de 4 pantallas (páginas) esenciales:
+        Inicio: debe presentar la empresa, su misión y una descripción breve de los servicios o productos.
+        Servicios/Productos: detalla los servicios o productos específicos que ofrece la empresa.
+        Testimonios: incluye comentarios o testimonios (creados por ti) de clientes que hayan usado los servicios.
+        Contacto: formulario para que los usuarios puedan enviar consultas o agendar servicios (según la empresa elegida).
+
+Diseño y Estilo
+
+    Estilo Visual Consistente:
+        Utiliza una paleta de colores y tipografías que reflejen la temática y personalidad de la empresa elegida.
+        El diseño debe ser totalmente responsivo, adaptándose tanto a dispositivos móviles como a escritorio.
+
+    Navegación Clara:
+        Barra de navegación fija en la parte superior, con enlaces a cada página principal (Inicio, Servicios/Productos, Testimonios, Contacto).
+        Agrega un pie de página con enlaces adicionales, como términos de servicio o redes sociales de la empresa (ficticias).
+        Agrega un breadcrumb para indicar a los usuarios en qué página se encuentran.
+
+Componentes Interactivos
+
+    Botones de Llamada a la Acción (CTA):
+        Al menos tres botones CTA en toda la web para realizar acciones como “Contratar ahora”, “Conocer más” o “Enviar mensaje”.
+
+    Formulario de Contacto:
+        Incluye un formulario en la página de Contacto con campos básicos: nombre, correo electrónico, teléfono y mensaje.
+        Asegúrate de que cada campo tenga validación básica (por ejemplo, campo de correo solo acepte emails válidos).
+
+    Galería de Imágenes:
+        En la página de Servicios/Productos, incluye una galería de imágenes o un carrusel que muestre productos o eventos relacionados con la empresa.'
+        Cada Producto o Servicio de la empresa deberá tener un modal que al hacer clic sobre él, muestre más información como puede ser una descripción, el precio, etc.
+
+    Sección de Testimonios:
+        Muestra al menos tres testimonios (ficticios) de clientes, con un diseño atractivo y visual.
+
+Elementos Adicionales y Funcionalidades
+
+    Mapa Integrado:
+        En la sección de Contacto, incorpora un mapa de ubicación (ficticia) para dar un toque profesional. Esto puede ser un mapa simple embebido o una imagen de ubicación.
+
+    Uso de Iconos y Elementos Gráficos:
+        Incluye iconos representativos en secciones como "Contacto", "Servicios" o redes sociales.
+
+    Botón de Regreso al Inicio:
+        Un botón fijo en la esquina inferior derecha que permita al usuario regresar a la parte superior de la página de forma rápida.
+
+    Animaciones o Efectos:
+        Incorpora al menos una animación o efecto de transición para los elementos interactivos, como la galería de imágenes o los botones, para hacer la experiencia más dinámica.
+
+Criterios de Evaluación
+
+    Cumplimiento de los requisitos: La página debe incluir todas las pantallas y componentes mencionados, con Bootstrap bien aplicado en cada sección.
+    Creatividad y Originalidad: Se valorará cómo el diseño refleja el carácter inusual y único de la empresa seleccionada.
+    Funcionalidad: Todos los botones y formularios deben ser funcionales (deben reaccionar).
+    Adaptabilidad Responsiva: La página debe verse bien en dispositivos móviles, tablets y pantallas grandes.
